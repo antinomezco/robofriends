@@ -8,7 +8,7 @@ const state = {
     searchField: ''
 }
 class App extends Component{
-    constructor {
+    constructor() {
         super()
         this.state = {
             robots: robots;
